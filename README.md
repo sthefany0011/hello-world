@@ -1,6 +1,6 @@
 # hello-world
 
-<p1. Utilizando as novas ferramentas
+<p>1. Utilizando as novas ferramentas
 Tente fazer o passo a passo abaixo sem consultar as aulas inicialmente. Caso não se lembre como realizar alguns dos passos, sinta-se a vontade para consultar as aulas.
 
 <p>Crie um novo repositório no GitHub chamado hello-world
